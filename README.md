@@ -7,7 +7,7 @@ Proyecto de una API Spring Boot para una biblioteca.La API permite agregar, modi
 
 <h2>Instalación</h2>
 - Clona este repositorio en tu computadora.</br>
-- Crea una base de datos en MySQL usando el archivo script.sql.</br>
+- Crea una base de datos en SQL Server usando el archivo script.sql.</br>
 - Modifica la configuración de la base de datos en el archivo application.properties para que apunte a tu base de datos.</br>
 - Abrí el proyecto desde tu IDE y corre el archivo DemoApplication.java.</br>
 - Abrí el archivo apiFront.html y utiliza la aplicación mientras esté corriendo el back end.</br>
